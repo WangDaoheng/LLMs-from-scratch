@@ -107,6 +107,8 @@ ch0?/0?_user_interface/chainlit.md
 ch0?/0?_user_interface/.files
 *.lock
 
+.idea/
+
 # Temporary OS-related files
 .DS_Store
 
