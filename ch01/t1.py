@@ -1,5 +1,8 @@
 import torch
 import numpy as np
+import sys
+
+print(sys.version)
 
 data = [[1, 2], [3, 4]]
 np_array = np.array(data)
